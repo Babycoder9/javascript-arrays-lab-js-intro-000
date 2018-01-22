@@ -1,4 +1,4 @@
 function destructivelyAppendKitten(name) {
- name.unshift();
+ name.unshift(kitten);
  return name;
 }
